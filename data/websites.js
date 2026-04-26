@@ -11,9 +11,9 @@ const websiteData = {
 
   healthcare: [
     {
-      name: "MediCare Clinic",
+      name: "Medicare+",
       desc: "Clean appointment booking & doctor profiles for a multi-specialty clinic.",
-      image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&q=80"
+      image: "data/medicare+.png"
     },
     {
       name: "WellnessHub",
@@ -62,9 +62,9 @@ const websiteData = {
       image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
     },
     {
-      name: "Brew & Bean",
+      name: "creme & coffee",
       desc: "Cozy café site with menu, daily specials & loyalty signup.",
-      image: "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=800&q=80"
+      image: "data/creme&co.png"
     },
     {
       name: "SliceUp Pizza",
